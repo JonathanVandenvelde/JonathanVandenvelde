@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Jonathan 👋
 
-<!--
-**JonathanVandenvelde/JonathanVandenvelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at HE Vinci in Brussels, Belgium, studying Application Development.
+I'm currently building strong foundations in software development through my studies and personal projects.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & Object-Oriented Programming
+- TypeScript & Web Development
+- SQL & Relational Databases
+- Data Structures & Algorithms
+- Git & DevOps fundamentals
+
+## 🚀 Projects
+
+I'm currently working on my first personal projects.
+
+
+More coming soon!
